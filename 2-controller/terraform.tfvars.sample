@@ -1,0 +1,10 @@
+region               = "us-east-1"
+customer_license_id  = "..."
+vpc_id               = "vpc-0a..."
+subnet_id            = "subnet-058..."
+admin_email          = "admin@email.com..."
+admin_password       = "ComplexPassword..."
+incoming_ssl_cidrs   = ["3.3.3.3/32",""]
+access_account_name  = "aws-account-name..."
+access_account_email = "admin@email.com..."
+key_pair_name        = "key-pair-name..."
